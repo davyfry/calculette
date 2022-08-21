@@ -1,1 +1,1 @@
-php -S localhost:8000 -t site_1/
+php -S localhost:8000
